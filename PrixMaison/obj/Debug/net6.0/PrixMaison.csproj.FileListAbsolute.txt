@@ -1,0 +1,15 @@
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.csproj.AssemblyReference.cache
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.AssemblyInfoInputs.cache
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.AssemblyInfo.cs
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.csproj.CoreCompileInputs.cache
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\bin\Debug\net6.0\PrixMaison.exe
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\bin\Debug\net6.0\PrixMaison.deps.json
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\bin\Debug\net6.0\PrixMaison.runtimeconfig.json
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\bin\Debug\net6.0\PrixMaison.dll
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\bin\Debug\net6.0\PrixMaison.pdb
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.dll
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\refint\PrixMaison.dll
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.pdb
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\PrixMaison.genruntimeconfig.cache
+C:\Users\99leo\source\repos\PrixMaison\PrixMaison\obj\Debug\net6.0\ref\PrixMaison.dll
